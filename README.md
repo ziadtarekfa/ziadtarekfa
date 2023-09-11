@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ziadtarekfa
+- 👋 Hi, I’m Ziad Tarek
 - 👀 I’m interested in Full Stack Development
 - 💞️ I’m looking to collaborate on new technologies
 - 📫 How to reach me 
